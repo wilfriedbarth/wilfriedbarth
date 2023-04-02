@@ -1,7 +1,6 @@
 ### Hey there! 👋
 
-I am a software engineer at [Expedia Group](https://www.expediagroup.com/) in Chicago, working in the [Media Solutions](https://advertising.expedia.com/) division.
-At work, I am hacking away in JavaScript, TypeScript, Java, and Kotlin. At home, I am dabbling in Clojure and Scheme.
+I am a software engineer at [Capital One](https://www.capitalone.com/) in Chicago. At work, I am hacking away in JavaScript, TypeScript, and Golang.
 
 Drop me a line at [wilfried.barth.prof@gmail.com](mailto:wilfried.barth.prof@gmail.com), 
 connect with me on [LinkedIn](https://www.linkedin.com/in/wilfriedbarth/), 
